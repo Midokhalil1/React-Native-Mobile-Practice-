@@ -7,7 +7,7 @@ export default function App() {
       <View>
       <Text>Another piece of text!</Text>
       </View>
-      <Text style={{margin:16}}>Hello World!</Text>
+      <Text style={{margin:16, borderWidth: 2, borderColor: 'blue', padding: 16}}>Hello World!</Text>
       <Button title='Click Here' />
         
     </View>
